@@ -1,0 +1,42 @@
+{
+  "C1001": {
+    "name": "Andrei Popescu",
+    "region": "Brasov",
+    "mobile_plan": "Nova Plus",
+    "home_internet": "Fibre 1000",
+    "contract": "24-month commitment, started 2025-03-01",
+    "account_status": "active",
+    "overdue_balance_eur": 0,
+    "travel_pass_enabled": true
+  },
+  "C1002": {
+    "name": "Maria Ionescu",
+    "region": "Cluj",
+    "mobile_plan": "Nova Start",
+    "home_internet": null,
+    "contract": "month-to-month",
+    "account_status": "active",
+    "overdue_balance_eur": 0,
+    "travel_pass_enabled": false
+  },
+  "C1003": {
+    "name": "Mihai Dumitru",
+    "region": "Bucharest",
+    "mobile_plan": "Nova Unlimited",
+    "home_internet": "Fibre 300",
+    "contract": "month-to-month",
+    "account_status": "suspended",
+    "overdue_balance_eur": 34.5,
+    "travel_pass_enabled": true
+  },
+  "C1004": {
+    "name": "Elena Stan",
+    "region": "Timisoara",
+    "mobile_plan": "Nova Plus",
+    "home_internet": "Fibre 300",
+    "contract": "24-month commitment, started 2024-11-15",
+    "account_status": "active",
+    "overdue_balance_eur": 0,
+    "travel_pass_enabled": false
+  }
+}
